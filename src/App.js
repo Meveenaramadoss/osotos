@@ -4,7 +4,7 @@ import {useEffect, useState} from 'react';
 import axios from 'axios';
 
 
-const URL = 'http://localhost/osotos/';
+/*const URL = 'http://localhost/osotos/';*/
 
 function App() {
 const [tasks, setTasks] =useState([]);
